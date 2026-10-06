@@ -1,6 +1,6 @@
 # Weather App
 
-A Python command-line app that shows the current weather and temperature (°F and °C) for any city, using the OpenWeatherMap API.
+A Python command-line app that shows the current weather and temperature (°F and °C) for any city, using the OpenWeatherMap API. :)
 
 ## Run it
 
