@@ -10,4 +10,4 @@ A Python command-line app that shows the current weather and temperature (°F an
 
 ## Built with
 
-Python, requests, python-dotenv, OpenWeatherMap API :)
+Python, requests, python-dotenv, OpenWeatherMap API 
